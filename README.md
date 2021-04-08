@@ -1,1 +1,11 @@
 # ATMSimulator
+<img src="https://user-images.githubusercontent.com/14232865/114008925-5cc0e480-986b-11eb-9d75-991fb19c9f1f.png"/>
+<img src="https://user-images.githubusercontent.com/14232865/114009128-8d088300-986b-11eb-84b6-4c7a525afb1a.png"/>
+<img src="https://user-images.githubusercontent.com/14232865/114009232-a3164380-986b-11eb-8db7-92b64b55bb59.png"/>
+<img src="https://user-images.githubusercontent.com/14232865/114009676-0607da80-986c-11eb-92e6-e79da6233f16.png"/>
+<img src="https://user-images.githubusercontent.com/14232865/114009840-2f286b00-986c-11eb-9823-50bf6e01de01.png"/>
+<img src="https://user-images.githubusercontent.com/14232865/114009942-49fadf80-986c-11eb-911c-fa341865e355.png"/>
+<img src="https://user-images.githubusercontent.com/14232865/114010024-5e3edc80-986c-11eb-87a3-0554c8111e4d.png"/>
+<img src="https://user-images.githubusercontent.com/14232865/114010190-8595a980-986c-11eb-920d-7cb3567566cd.png"/>
+<img src="https://user-images.githubusercontent.com/14232865/114010327-ab22b300-986c-11eb-8f91-c7d1ed149c50.png"/>
+<img src="https://user-images.githubusercontent.com/14232865/114010517-d73e3400-986c-11eb-9277-a320afe4c0da.png"/>
